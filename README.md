@@ -1,6 +1,6 @@
 # 🧩 7 Days of HTML Practice
 
-This repository contains my **7-day HTML practice plan**, focused on building strong frontend fundamentals through daily hands-on exercises.
+This repository contains my 7-day HTML practice plan, focused on building strong frontend fundamentals through daily hands-on exercises.
 
 Each day covers a specific HTML topic with simple examples and mini practice tasks.
 
@@ -23,12 +23,31 @@ Each day covers a specific HTML topic with simple examples and mini practice tas
 - Add comments in HTML
 
 ### 🎯 Goal
-Understand the **basic structure of an HTML page** and become comfortable writing simple HTML code.
+Understand the basic structure of an HTML page and become comfortable writing simple HTML code.
 
 ---
 
+## 📅 Day 2 – Meta & Text Basics
 
-### ✨ Author
+### 📘 Topics Covered
+- `<meta>` tags (charset, viewport, description)
+- Page title optimization
+- Text formatting tags: `<strong>`, `<em>`, `<b>`, `<i>`
+- `<span>` vs `<p>`
+- HTML entities
+
+### 🛠 Practice Tasks
+- Add meta tags for charset and viewport
+- Format text using semantic and non-semantic tags
+- Use inline and block-level text elements
+- Practice HTML entities for special characters
+
+### 🎯 Goal
+Learn how to properly structure page metadata and format text content using HTML best practices.
+
+---
+
+✨ **Author**  
 **Nethaji**
 
 Happy Learning! 💻🚀
