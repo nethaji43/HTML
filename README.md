@@ -47,6 +47,25 @@ Learn how to properly structure page metadata and format text content using HTML
 
 ---
 
+## 📅 Day 3 – Text Basics & Lists
+
+### 📘 Topics Covered
+- Text semantics and meaning in HTML
+- `<abbr>` for abbreviations
+- `<address>` for contact and author information
+- HTML Lists:
+  - Ordered lists (`<ol>`)
+  - Unordered lists (`<ul>`)
+  - Description lists (`<dl>`, `<dt>`, `<dd>`)
+
+### 🛠 Practice Tasks
+- **Task 1:** Use `<abbr>` and `<address>` tags in a sample webpage  
+- **Task 2:** Create ordered, unordered, and description lists  
+- **Task 3:** Build a final combined mini portfolio page using all topics learned so far
+
+### 🎯 Goal
+Develop clarity in text semantics and list structures, and apply all learned HTML concepts in a single structured page.
+
 ✨ **Author**  
 **Nethaji**
 
