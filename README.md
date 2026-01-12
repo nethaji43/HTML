@@ -66,6 +66,36 @@ Learn how to properly structure page metadata and format text content using HTML
 ### 🎯 Goal
 Develop clarity in text semantics and list structures, and apply all learned HTML concepts in a single structured page.
 
+## 📅 Day 4 – Links & Images
+
+### 📘 Topics Covered
+- HTML Links:
+  - Relative links
+  - Absolute links
+  - Internal links using section IDs
+  - Navigation bar using `<nav>`
+  - Download links
+  - Email (`mailto:`) links
+  - Phone (`tel:`) links
+  - `target="_blank"` usage
+- HTML Images:
+  - `<img>` tag with width, height, title, and loading attributes
+  - `<figure>` and `<figcaption>`
+  - Simple image gallery layout
+
+### 🛠 Practice Tasks
+- **Task 1:** Create a webpage demonstrating all types of HTML links  
+- **Task 2:** Add images using `<img>`, `<figure>`, and `<figcaption>`  
+- **Task 3:** Build a beginner-friendly portfolio page combining:
+  - Page navigation
+  - Multiple link types
+  - Images and an image gallery
+  - Clean semantic structure
+
+### 🎯 Goal
+Understand how navigation and images work together to create structured, user-friendly web pages and apply all learned HTML concepts in a single practical project.
+
+
 ✨ **Author**  
 **Nethaji**
 
