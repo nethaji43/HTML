@@ -95,6 +95,61 @@ Develop clarity in text semantics and list structures, and apply all learned HTM
 ### 🎯 Goal
 Understand how navigation and images work together to create structured, user-friendly web pages and apply all learned HTML concepts in a single practical project.
 
+📅 Day 5 – Semantic HTML & Tables
+📘 Topics Covered
+
+Semantic HTML Elements:
+
+<header>
+
+<nav>
+
+<main>
+
+<section>
+
+<article>
+
+<aside>
+
+<footer>
+
+Why semantic tags are important
+
+Accessibility & SEO benefits of semantic HTML
+
+HTML Tables:
+
+<table>
+
+<tr>, <th>, <td>
+
+<thead>, <tbody>, <tfoot>
+
+colspan and rowspan
+
+Table captions using <caption>
+
+🛠 Practice Tasks
+
+Task 1: Build a simple webpage layout using only semantic elements
+
+Task 2: Create a student marks table with:
+
+Header row
+
+Multiple data rows
+
+Table caption
+
+Use colspan and rowspan in a timetable or report-style table
+
+Task 3: Combine semantic layout + table in one mini project page
+
+🎯 Goal
+
+Understand how semantic HTML improves page structure, readability, and accessibility, and learn how to display structured data effectively using HTML tables.
+
 
 ✨ **Author**  
 **Nethaji**
