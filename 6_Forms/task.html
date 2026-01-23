@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Forms</title>
+    <meta name="author" content="nani">
+    <meta name="discription" content="praticeing Forms tags in html">
+    <link rel="icon" href="MyLogo.jpg">
+</head>
+<body>
+    <form action="get" method="get">
+        <label for="name">Name</label>
+        <input type="text" id="name" value="name" placeholder="Nani" required>
+        <br><br>
+        <label for="password">Password</label>
+        <input type="text" name="password" id="password" placeholder="@nan" required>
+        <br><br>
+        <label for="tel">Phone Number</label>
+        <input type="tel" name="tel" id="tel" placeholder="+91 78XXXXXXX" required pattern="[0-10]{10}">
+        <br><br>
+        <label for="age">Age</label>
+        <input type="number" name="age" id="age" placeholder="14" min="0" max="80">
+        <br><br>
+        <label for="gender">Gender</label>
+        <br>
+        <input type="radio" name="gender" id="male">
+        <label for="male">Male</label>
+        <input type="radio" name="gender" id="female">
+        <label for="female">Female</label>
+        <br><br>
+        <input type="checkbox" name="terms" id="terms">
+        <label for="terms">Treams & conditions</label>
+        <input type="submit" value="Submit">
+        <input type="reset" value="Clear">
+        <br><br>
+        <label for="comments">Comments</label>
+        <br>
+        <textarea name="comments" id="comments" cols="30" rows="10" placeholder="Enter your comments"></textarea>
+    </form>
+</body>
+</html>

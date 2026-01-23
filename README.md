@@ -96,6 +96,7 @@ Develop clarity in text semantics and list structures, and apply all learned HTM
 Understand how navigation and images work together to create structured, user-friendly web pages and apply all learned HTML concepts in a single practical project.
 
 📅 Day 5 – Semantic HTML & Tables
+
 📘 Topics Covered
 
 Semantic HTML Elements:
