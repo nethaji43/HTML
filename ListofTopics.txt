@@ -1,0 +1,74 @@
+1. Introducing about html
+
+2. Vs code installation and how to use vs code 
+
+3. Basic html code
+
+4. meta
+author 
+description 
+link icon image/x-icon 
+
+5. text basics
+heading 
+paragraph 
+horizontal tag (hr)
+br 
+strong 
+Italic 
+entites: &nbsp, lt, gt, copy, etc
+abbr
+address
+
+6. Lists
+ordered list
+unordered list
+description list
+
+7. links
+a_href ==> relative, abosulate, internal
+section - id
+nav
+a_href_download
+a_href_email
+a_href_tel
+a_href_target="_blank"
+
+8. imgs
+img => width, height, title, loading
+figure, figcaption
+
+9. Semantic
+header
+main
+footer
+nav => aria-labelledby
+article
+aside
+details, summary
+time => datetime
+
+10. non sematic
+div
+span
+
+11. tables
+table
+tr -> th
+tr -> td
+rowspan, colspan
+caption
+thead, tbody, tfoot
+scope
+
+12. Form
+form: action, method
+label
+input: type, name, id, placeholder, autocomplete, required, autofocus, pattern, min, max, step, value
+type -> text, password, tel, number, radio, checkbook, submit
+select -> option: value, selected
+          optgrp: label, size
+datalist: option
+fieldset -> legend
+textarea: cols, area
+button: type -> submit, reset
